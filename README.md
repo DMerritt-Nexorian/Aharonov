@@ -1,2 +1,2 @@
 # Aharonov
-Aharonov is an open-source framework designed for advanced quantum computing simulations and quantum error correction research. Built for high performance, it provides researchers and developers with modular tools to model quantum circuits, analyze noise channels, and test fault-tolerant protocols efficiently. Accelerate your quantum workflow.
+Aharonov is a high-performance Python framework for simulating quantum systems and analyzing topological phases. Designed for researchers and developers, it provides scalable tools for quantum lattice models, exact diagonalization, and time-evolution tracking. Explore quantum mechanics with optimized, easy-to-use computational workflows.
