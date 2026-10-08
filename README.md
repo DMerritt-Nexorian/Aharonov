@@ -1,2 +1,7 @@
 # Aharonov
-Aharonov is a high-performance Python framework for simulating quantum systems and analyzing topological phases. Designed for researchers and developers, it provides scalable tools for quantum lattice models, exact diagonalization, and time-evolution tracking. Explore quantum mechanics with optimized, easy-to-use computational workflows.
+
+Public name for the private Core_Quantum_Time implementation.
+
+This repository does not contain the engine, the method, or the parameters. A demonstration and a lease are not open here. Access to the implementation requires a separate agreement.
+
+Contact: NexorianLabs@icloud.com
