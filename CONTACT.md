@@ -1,7 +1,7 @@
 # Contact
 
-Implementation repository: Core_Quantum_Time, private.
-
-This repository is the public name only.
+Aharonov Software, through Nexorian Global Engineering Corp.
 
 Email: NexorianLabs@icloud.com
+
+Use this address for an evaluation request or a license inquiry. Do not send credentials or private keys.
