@@ -1,26 +1,25 @@
 # Aharonov
 
-Aharonov is the public name of the private Core_Quantum_Time repository.
+Aharonov is the public record for a private implementation held in `Core_Quantum_Time`.
 
-This page identifies the work and the terms of access. It does not include the engine, the method, the parameters, or the source.
+| | |
+|---|---|
+| Status | Public record. No release. |
+| Implementation | Private repository `Core_Quantum_Time` |
+| License | All rights reserved. See [LICENSE](LICENSE). |
+| Contact | NexorianLabs@icloud.com |
 
-## What is public
+## Public contents
 
-- The name Aharonov.
-- The statement that the implementation is private.
-- A contact for an evaluation or a license.
-
-## What is not public
-
-- Source code.
-- The numerical method.
-- Parameters, bounds, and test vectors.
-- A download, a demonstration, or a payment page.
+This repository contains the name, the access terms, and the contribution rule. It does not contain source code, a method, parameters, or test vectors.
 
 ## Access
 
-An evaluation copy or a license is a separate agreement. It is not granted by viewing this repository.
+Viewing this repository does not grant a license to the implementation. An evaluation or a commercial license is a separate written agreement.
 
-Contact: NexorianLabs@icloud.com
+## Repository map
 
-The implementation remains in the private repository Core_Quantum_Time.
+- [LICENSE](LICENSE) — rights reserved.
+- [SCOPE.md](SCOPE.md) — what may be added here.
+- [CONTACT.md](CONTACT.md) — inquiries.
+- [CONTRIBUTING.md](CONTRIBUTING.md) — documentation only.

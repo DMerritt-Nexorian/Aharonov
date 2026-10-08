@@ -1,0 +1,4 @@
+*.o
+*.a
+target/
+.DS_Store
