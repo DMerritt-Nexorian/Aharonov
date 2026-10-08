@@ -1,7 +1,15 @@
-Copyright (c) 2026 Nexorian Global Engineering Corp.
+# AHARONOV EVALUATION AND ACADEMIC LICENSE (v1.0.0)
 
-All rights reserved.
+Copyright (c) 2026 Aharonov Software / Nexorian. All rights reserved.
 
-No permission is granted to copy, modify, or distribute the private implementation named Aharonov, held in Core_Quantum_Time.
+This public repository contains the name and the access terms. It does not contain the implementation. The implementation is the private repository Core_Quantum_Time. The same license applies to both.
 
-The text files in this public repository may be read. They do not transfer any right in the implementation.
+1. PURPOSE & GRANT: Subject to the terms of this License, Licensor grants Licensee a non-exclusive, non-transferable, royalty-free license to download, compile, and execute the Aharonov source code solely for academic research, personal education, or internal corporate evaluation purposes. That grant applies only after Licensor has supplied the source under a separate evaluation copy. Viewing this repository does not supply the source.
+
+2. COMMERCIAL RESTRICTIONS: Licensee SHALL NOT use the software, its APIs, or any derivative works for commercial production, enterprise deployments, cloud-hosted software services (SaaS), or any revenue-generating activities.
+
+3. "AS-IS" COMPLIANCE & LIMITATION OF LIABILITY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. UPGRADE & PRODUCTION REQUIREMENT: Any production deployment, commercial integration, or deployment within a well-funded commercial venture requires a separate, written Commercial Production License from the copyright holder.
+
+Contact: NexorianLabs@icloud.com

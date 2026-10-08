@@ -6,7 +6,7 @@ Aharonov is the public record for a private implementation held in `Core_Quantum
 |---|---|
 | Status | Public record. No release. |
 | Implementation | Private repository `Core_Quantum_Time` |
-| License | All rights reserved. See [LICENSE](LICENSE). |
+| License | Aharonov Evaluation and Academic License v1.0.0. See [LICENSE](LICENSE). |
 | Contact | NexorianLabs@icloud.com |
 
 ## Public contents
